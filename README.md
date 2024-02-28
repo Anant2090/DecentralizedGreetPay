@@ -8,9 +8,9 @@ DecentralizedGreetPay is a Full Stack Web3 DApp built using cutting-edge technol
 
 # 🎥 Project Link Demo
 
-Click the image above to watch a demo of the chatbot in action.
+Click the image below to watch a demo of the DecentralizedGreetPay in action.
 
-[![Chatbot Demo](https://drive.google.com/file/d/1QXz64QVCCWFjHMoZh7vR5K1XNrrBlx4s/view?usp=drive_link)](https://drive.google.com/file/d/1WCAOgUx_mbJLASEkiJtnmei3BFsAujhA/view?usp=drive_link)
+[![Chatbot Demo](https://github.com/Anant2090/DecentralizedGreetPay/blob/main/image.png)](https://drive.google.com/file/d/1WCAOgUx_mbJLASEkiJtnmei3BFsAujhA/view?usp=drive_link)
 
 ## Features
 
